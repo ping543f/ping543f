@@ -1,6 +1,6 @@
 ### Hi there, I'm Md Saef Ullah 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fping543f.github.io)](https://ping543f.github.io)
+[![Website](https://img.shields.io/website?label=ping543f&style=for-the-badge&url=https%3A%2F%2Fping543f.github.io)](https://ping543f.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ping543f?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fping543f&screen_name=ping543f)
 
 ## I'm a student, teacher, son, father and husband!
@@ -19,9 +19,6 @@
 - [Can not access or browse some websites using Dlink DIR 600L- Here is the solution](https://ping543f.wordpress.com/2014/05/10/can-not-access-or-browse-some-websites-using-dlink-dir-600l-here-is-the-solution/)
 <!-- BLOG-POST-LIST:END -->
 
-
-<br/>
-<br/>
 
 # github stats
 <summary>:zap: Github Stats</summary>
