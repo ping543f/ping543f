@@ -23,5 +23,5 @@
 # github stats
 <summary>:zap: Github Stats</summary>
 <img align="left" alt="Ping543f's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ping543f&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Ping543f's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping543f&layout=compact" />
+<img align="left" alt="Ping543f's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping543f&layout=compact&theme=radical" />
 
