@@ -22,7 +22,9 @@
 
 # github stats
 <summary>:zap: Github Stats</summary>
-<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats-git-master-ping543f.vercel.app/api?username=ping543f&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats-git-master-ping543f.vercel.app/api/top-langs/?username=ping543f&layout=compact&&hide_border=true&theme=radical" />
+<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats-r1th7jhth-ping543f.vercel.app/api?username=ping543f&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats-r1th7jhth-ping543f.vercel.app/api/top-langs/?username=ping543f&layout=compact&&hide_border=true&theme=radical" />
 
 #https://gitreadmestats-git-master-ping543f.vercel.app/
+#https://vercel.com/ping543f/gitreadmestats/7V5hQtFAHESNGvVMeDMur2TfMKGd
+#gitreadmestats-r1th7jhth-ping543f.vercel.app
