@@ -3,6 +3,16 @@
 [![Website](https://img.shields.io/website?label=ping543f&style=for-the-badge&url=https%3A%2F%2Fping543f.github.io)](https://ping543f.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ping543f?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fping543f&screen_name=ping543f)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ping543f/ping543f.github.io)
+
+![GitHub commit checks state](https://img.shields.io/github/checks-status/ping543f/ping543f.github.io/55690eca7be474c94d01fff74ad5048dd20530e1?label=checks)
+
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m788876556-808255a1c63bf4f7ed4467ff)  
+
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788876556-808255a1c63bf4f7ed4467ff)
+
+![Security Headers](https://img.shields.io/security-headers?url=http%3A%2F%2Fping543f.github.io)
+
 ## I'm a student, teacher, son, father and husband!
 
 - 🔭 I’m currently pursuing my PhD
