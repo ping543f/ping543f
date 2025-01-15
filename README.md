@@ -5,17 +5,14 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ping543f/ping543f.github.io)
 
-![GitHub commit checks state](https://img.shields.io/github/checks-status/ping543f/ping543f.github.io/55690eca7be474c94d01fff74ad5048dd20530e1?label=checks)
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m788876556-808255a1c63bf4f7ed4467ff)  
 
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788876556-808255a1c63bf4f7ed4467ff)
 
-![Security Headers](https://img.shields.io/security-headers?url=http%3A%2F%2Fping543f.github.io)
 
 ## I'm a student, teacher, son, father and husband!
 
-- 🔭 I’m currently pursuing my PhD
 - 🌱 I’m currently trying to learn everything 🤣
 
 
